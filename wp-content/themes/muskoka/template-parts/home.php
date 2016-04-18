@@ -7,7 +7,8 @@
  * @since Twenty Fourteen 1.0
  */
 
-get_header(); ?>
+get_header(); 
+echo "hello test";?>
   <section class="home-banner animated fadeIn">
     <div id="home-banner" class="carousel carousel-fade slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
